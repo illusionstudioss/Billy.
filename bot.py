@@ -13,7 +13,7 @@ import random
 from BotReplies import words
 from BotReplies import pings
 
-bot = lightbulb.BotApp(token='OTM1NzIyOTY4MzkzMzM0Nzg0.YfCx7A.U3ekvMSay9B4aMXdT50rt1ZS71U')
+bot = lightbulb.BotApp(token='bot tokem here')
 
 #Checking if bot is online
 @bot.listen(hikari.StartedEvent)
