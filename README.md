@@ -14,6 +14,7 @@ Billy is 100% run on slash commands, and while he is not well configured to be a
 
 # Contact.
 * Discord: Illusion#6971
+* Add Billy to your servers: https://discord.com/oauth2/authorize?client_id=935722968393334784&permissions=8&scope=bot%20applications.commands
 * My Youtube: https://www.youtube.com/channel/UCv4T2VUBOVuqDXfQ_gkQ1JA
 * My Website for more information: https://illusionstudioss.github.io/IllusionWebsite/
 
